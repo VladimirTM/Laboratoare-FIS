@@ -1,2 +1,2 @@
 # Laboratoare-FIS
-Rezolvarile la laboratorul FIS
+Rezolvarile de la laboratoarele de FIS

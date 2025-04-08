@@ -1,0 +1,24 @@
+{
+  "name": "npm-hello-world-starter-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirTM/Laboratoare-FIS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladimirTM/Laboratoare-FIS/issues"
+  },
+  "homepage": "https://github.com/VladimirTM/Laboratoare-FIS#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "type": "module"
+}
